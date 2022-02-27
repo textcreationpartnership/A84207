@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of foure notable victories obtained by the Parliaments forces: being informed to the Honourable House of Parliament on Satterday last, being the 24. day of this instant February, 1644. Viz. I. The taking of 3000 pound in money, besides plate and jewels, with a convoy of sixty horse; going from Prince Rupert to Weymouth. II. Collonel Mittons taking of one collonel, many captaines and other officers, and 60 common soldiers prisoners; with the routing two regiments of Irish rebels newly landed, and taking their bag and baggage. III. A defeat given to the Newark forces, occasioned by a discovery of a dangerous plot, for betraying the town of Nottingham; with the manner of drowning many of them, and taking others prisoners. IV. The taking of twelve ships by the Earle of Warwicks ships, which were imployed against the Parliament, under the command of Browne Bushell; with a relation of what store of ordnance, ammunition and treasure was therein. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84207</idno>
+            <idno type="STC">Wing E3676</idno>
+            <idno type="STC">Thomason E34_11</idno>
+            <idno type="STC">ESTC R14161</idno>
+            <idno type="EEBO-CITATION">99859622</idno>
+            <idno type="PROQUEST">99859622</idno>
+            <idno type="VID">111717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111717)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E34[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of foure notable victories obtained by the Parliaments forces: being informed to the Honourable House of Parliament on Satterday last, being the 24. day of this instant February, 1644. Viz. I. The taking of 3000 pound in money, besides plate and jewels, with a convoy of sixty horse; going from Prince Rupert to Weymouth. II. Collonel Mittons taking of one collonel, many captaines and other officers, and 60 common soldiers prisoners; with the routing two regiments of Irish rebels newly landed, and taking their bag and baggage. III. A defeat given to the Newark forces, occasioned by a discovery of a dangerous plot, for betraying the town of Nottingham; with the manner of drowning many of them, and taking others prisoners. IV. The taking of twelve ships by the Earle of Warwicks ships, which were imployed against the Parliament, under the command of Browne Bushell; with a relation of what store of ordnance, ammunition and treasure was therein. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: The 4 in the imprint date is crossed out and altered to 1643; "Febr. 26. 1643".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weymouth (Dorset) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Newark (Nottinghamshire) --  History --  Siege, 1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111717:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION <hi>OF FOURE</hi> NOTABLE VICTORIES <hi>Obtained by the Parliaments Forces:</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing informed to the Honourable Houſe of Par<g ref="char:EOLhyphen"/>liament on Satterday laſt, being the 24. day of this inſtant <hi>February,</hi> 1644.</p>
+            <p>Viz.
+<list>
+                  <item>I. The taking of 3000. pound in money, beſides Plate and Iewels, with a Convoy of ſixty Horſe; going from Prince <hi>Rupert</hi> to <hi>Weymouth.</hi>
+                  </item>
+                  <item>II. Collonel <hi>Mittons</hi> taking of one Collonel, many Captaines and other Officers, and 60. common Soldiers priſoners; with the routing two Regiments of <hi>Iriſh</hi> R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bels newly landed, and taking their Bag and Baggage.</item>
+                  <item>III. A defeat given to the <hi>Newark</hi> Forces, occaſioned by a diſcovery of a dangerous Plot, for betraying the Town of <hi>Nottingham;</hi> with the manner of drowning many of them, and taking others priſoners.</item>
+                  <item>IV. The taking of twelve Ships by the Earle of <hi>Warwicks</hi> Ships, which were imployed againſt the Parliament, under the command of <hi>Browne Buſhell;</hi> with a relation of what ſtore of Ordnance, Ammunition and Treaſure was therein.</item>
+               </list>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>Febr.</hi> 26.</p>
+            <p>LONDON. Printed by <hi>Bernard Alſop.</hi> 1644. <add>1643</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111717:2"/>
+            <head>A RELATION OF FOURE VICTORIES OBTAINED By the PARLIAMENTS <hi>FORCES.</hi>
+            </head>
+            <div type="part">
+               <head>The Firſt Victory. Of the taking of a convoy of ſixty horſe, and three thouſand pound in mony, beſides Iewels and Plate.</head>
+               <p>THat this relation may not appeare to the Reader like a Nutſhell without a kirnell, I ſhall briefly ſatisfy you in each particular: and for the me<g ref="char:EOLhyphen"/>thod ſake begin with Prince <hi>Ruperts</hi> marching towards
+<pb n="2" facs="tcp:111717:3"/>
+                  <hi>Wales,</hi> and whether his ayme in his paſſage through <hi>Worceſterſhire</hi> to <hi>Ludlow</hi> in <hi>Shropſhire,</hi> were not more to raiſe mony then men I leave to your conſtruction; but this is certaine, there was going from him to <hi>Weymouth,</hi> (with a purpoſe that it ſhould be conveyed from thence over ſea) three thouſand pounds in mony, with Plate, Iewels, and other rich treaſure, which was ſent the laſt week with a Convoy of about ſixty horſe, choſen men (moſt of them being Gentlemen.) But Captaine <hi>Syden<g ref="char:EOLhyphen"/>ham</hi> the Governour of the town of <hi>Pool</hi> for the King and Parliament, having notice of their comming through <hi>Dorſetſhire</hi> towards <hi>VVeymouth,</hi> went out with a party of horſe, and meeting with the ſaid Convoy charged them, and after a ſhort fight took them priſoners and carried them to <hi>Poole,</hi> with the Mony Plate and Iewels, for the ſervice of the State. And whether this Mony and Plate were gotten by plunder, or ſome other of Prince <hi>Ruperts</hi> Revenue (leſſe viſible) I leave to any indifferent man to judge; and although there may bee ſome pretence that it was going to ſome of his friends beyond ſea, yet is there farre greater probability, that Prince <hi>Rupert</hi> foreſeeing what condition he is like to be in very ſhortly, begins to wax provident, and make a ſtock againſt his flight into <hi>Holland;</hi> or elſe, to buy Armes to be imployed againſt the Parliament.</p>
+               <p>The other matters of greater importance which I have yet to relate in this ſmall peece of paper, will not permit of any longer diſcourſe on this buſineſſe, there<g ref="char:EOLhyphen"/>fore I will paſſe from that, and come to the next thing of great conſideration.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:111717:3"/>
+               <head>The Second Victory. Of Collonel <hi>Mittons</hi> taking of one Collonel, many Captaines and other Officers, and ſixty common Soldiers priſoners, with the routing of two Regiments of <hi>Iriſh</hi> Rebels.</head>
+               <p>IT hath been received for a certaine truth, that of late thouſands of the Iriſh Rebels have come over to <hi>Briſtoll, Cheſter</hi> and other places, and it is as true, that two Regiments more landed ſince neare Cheſter, and intended to joyne themſelves with the reſt of that blood-ſucking and Rebellious crew, which were in actuall warre againſt the Parliament; thinking them<g ref="char:EOLhyphen"/>ſelves ſure to drive back Sir <hi>VVilliam Breretons</hi> forces, which ſince the victory obtained at Namptwich, were drawne neare Cheſter. And the Rebels being now up<g ref="char:EOLhyphen"/>on their march into the country, Colonel <hi>Mitton</hi> (a valourous and deſerving Gentleman) having notice thereof, admitted of no delay in preparing not onely to defend himſelfe, but to offend the enemy, and pre<g ref="char:EOLhyphen"/>ſervation of the country; but preſently drew forth with about ſix hundred men, and having certain intelli<g ref="char:EOLhyphen"/>gence how the Rebels advanced, it was not long be<g ref="char:EOLhyphen"/>fore he met with them: and drawing his forces into a body not farre from Sir <hi>Richard VVilbrams</hi> houſe, they fel ſo bravely upon the Rebels, that within one houres ſpace, he had killed and taken above threeſcore of them, and utterly routed the reſt, putting them to flight.</p>
+               <pb n="4" facs="tcp:111717:4"/>
+               <p> In which Skirmiſh there was taken one Colonell, three or foure Captaines, be ſides many other inferiour Officers, and all their bagge and baggage, wherein we have great cauſe to acknowledge Gods infinite mercy and goodneſſe to this land, that notwithſtanding the great multitude of the Rebels which have lately come over into England, to joyne with the Papiſts here to deſtroy the Proteſtants, and for the utter extirpation of the Proteſtant Religion; yet it hath pleaſed God ſo wonderfully to manifeſt his love to his cauſe, that nei<g ref="char:EOLhyphen"/>ther they nor any of the Kings forces have had any ſuc<g ref="char:EOLhyphen"/>ceſſe ſince their comming over, but notwithſtanding all their acting and plotting, they have been diſappointed; and their conſultations have like the Counſell of <hi>Achi<g ref="char:EOLhyphen"/>tophell,</hi> turned to their deſtruction, and their wicked devices brought to light; as lately we have an example in the deliverance of the towne of <hi>Nottingham,</hi> againſt which, the <hi>Newarke</hi> forces had laid a plot for betraying of the ſaid towne into the hands of the enemy, and was very neare to be put in execution; and as we are credibly informed was after this manner, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The third Victorie. Of a defeat given to the <hi>Newarke</hi> Forces, with the drowning many of them, and taking others Priſoners.</head>
+               <p>THere being a party in the Towne which had con<g ref="char:EOLhyphen"/>ſpired with the Cavaliers for the betraying there<g ref="char:EOLhyphen"/>of (moſt of them being Malignants which were diſar<g ref="char:EOLhyphen"/>med) they had deviſed a way to convay Armes to them,
+<pb n="5" facs="tcp:111717:4"/>under the colour of bringing corn and proviſion to the Town, and all things being agreed upon, both touching the manner of the execution of the Plot, and the time when their bloudy deſigns ſhould be acted; divers loads of corn (to the outward appearance) were by perſons in the habit of Conntry men brought thither, and being examined what was in the ſacks, they ſaid that there was nothing but wheat and other grain, but (upon ſome cauſe of ſuſpition) they were not ſuffered to paſſe without further ſearch, and were commanded to ſhoot the ſacks, and amongſt the corn in the ſacks, there were ſwords, Piſtols, and other Amunition. But I ſhould have told you in the firſt place, of certain perſons that were taken upon ſuſpition before in the Town, and after examina<g ref="char:EOLhyphen"/>tion and nothing confeſſed, there was other means (leſſe pleaſing) uſed to make them utter the truth, and after<g ref="char:EOLhyphen"/>wards one of them confeſſed that they were Spies, but would confeſſe no more; whereupon they were tyed neck and heels together, which made them within few houres confeſſe the truth of the Plot, for otherwiſe in all probability, the ſacks had not bin ſo ſtrictly ſearched. And ſo being returned againe to the place where I left off, I ſhall go on in declaring, that after the Swords, Pi<g ref="char:EOLhyphen"/>ſtols and Ammunition were found as aforeſaid, the par<g ref="char:EOLhyphen"/>ties which brought the ſame, were taken and carried in<g ref="char:EOLhyphen"/>to the Towne and kept in ſafe cuſtody, and no perſons ſuffered to go out of the Town for fear of giving intel<g ref="char:EOLhyphen"/>ligence that their Plot was diſcovered, which was ſud<g ref="char:EOLhyphen"/>dainly to be put in execution; and at the hour appointed, at a place where the Enemy were to come over the Ri<g ref="char:EOLhyphen"/>ver
+<pb n="6" facs="tcp:111717:5"/>of Trent, they were ſo bravely aſſaulted by the Not<g ref="char:EOLhyphen"/>tingham Forces, that many of them were killed, and about thirty of them drowned in the River, divers Pri<g ref="char:EOLhyphen"/>ſoners taken, and the reſt put to flight.</p>
+            </div>
+            <div type="part">
+               <head>The fourth Victory. Of the taking of twelve Ships from Captain <hi>Browne Buſhell.</hi>
+               </head>
+               <p>HAving certified you of the happy ſucceſſe of our Land Forces, it will not be much unſeaſonable to give you an accompt of our Navies proceedings, under the command of the Right honorable the Earl of War<g ref="char:EOLhyphen"/>wick, whoſe vigilant care for the preſervation and ſafe<g ref="char:EOLhyphen"/>ty of this Kingdome, deſerves much commendation.</p>
+               <p>Certain of the Earl of VVarwicks ſhips coaſting up and down to ſcour the Seas, and free a paſſage for our Merehant men, met with twelve Ships, under the com<g ref="char:EOLhyphen"/>mand of that Arch-enemy to the State, Captain <hi>Brown Buſhell,</hi> who hath robbed at Sea, under pretence of a Commiſsion from Oxford; where after ſome few hours fighting, they yeelded themſelves; which Ships will now be employed for the defence and ſafeguard of the Kingdome, they being very ſerviceable Ships and fur<g ref="char:EOLhyphen"/>niſhed with Ordnance and ammunition, and in one of the Ships is thought to be ſome ſtore of treaſure; eſpe<g ref="char:EOLhyphen"/>cially in a great Cypreſſe Cheſt, for the opening where<g ref="char:EOLhyphen"/>of the Parliament hath given ſpeciall Order.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
